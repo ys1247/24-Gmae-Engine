@@ -1,0 +1,5 @@
+﻿  LectureHW-04.cpp
+C:\Users\yunse\source\repos\LectureHW-04\packages\glfw.3.4.0\build\native\include\GLFW\glfw3.h(3235,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'LectureHW-04.cpp'을(를) 컴파일하는 중)
+  
+  LectureHW-04.vcxproj -> C:\Users\yunse\source\repos\LectureHW-04\x64\Debug\LectureHW-04.exe
